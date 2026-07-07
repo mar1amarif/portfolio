@@ -32,7 +32,7 @@ export function Hero() {
   return (
     <section
       id="top"
-      className="relative flex min-h-[100svh] items-center overflow-hidden pt-32 pb-20"
+      className="relative flex items-center overflow-hidden pt-32 pb-16 sm:pb-20 sm:min-h-[100svh]"
     >
       <GridBackground />
 
